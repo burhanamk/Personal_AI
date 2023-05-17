@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "roboto", sans-serif;
+  background: url("https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+a {
+  color: #60bf70 !important;
+  text-decoration: none;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+a:hover {
+  color: black !important;
+}
+
+a.active {
+  color: #57d96d !important;
+}
